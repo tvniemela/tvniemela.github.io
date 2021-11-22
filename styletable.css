@@ -1,0 +1,18 @@
+body{
+	background: #669999;
+}
+table {
+  font-family: "times new roman", serif;
+  border-collapse: collapse;
+  width: 100%;
+  background:#009999;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+} 
+th{
+background:#33cccc;	
+}
+td:hover {background-color: #ddd;}
