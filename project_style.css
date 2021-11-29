@@ -1,0 +1,61 @@
+
+.header{
+	
+	height: 400px;
+	background-image: url(img/galaxy.jpg);
+	background-position: center;
+	background-size: cover;
+	color:#99ff66;
+}
+
+body{
+	color:#99ff66;
+	background: #000000;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {		
+	color: #FF0000;
+	transition: color 2s;
+	text-decoration: none;
+}
+.nav-link {
+	color:#cccc00 !important;
+}
+
+.nav-link:hover{  
+color: #FF0000 !important; 
+transition: color 2s;
+}
+ 
+article{
+	padding:2%;
+
+}
+h1,h2,h3{
+text-shadow: 1px 1px #b3b300;
+}
+h1{
+font-size:50px;
+}
+table {
+  font-family: Arial, Verdana, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  background:#99ff66;
+  margin: 10px;
+  color:#000000;
+  box-shadow: 5px 10px #b3b300;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+} 
+th{
+background:#66ff33;	
+}
+td:hover {background-color: #ddd;}
